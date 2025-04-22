@@ -1,5 +1,7 @@
 # Bilibili Subtitle Downloader
 
+[中文文档](README_zh.md)
+
 A tool to download subtitles from Bilibili videos using their BV IDs.
 
 ## Features
