@@ -1,0 +1,26 @@
+# Ignore cookies file to prevent accidental commit of sensitive information
+cookies.txt
+
+# Ignore output directories
+output_*/
+test_output_*/
+
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore virtual environment directories
+venv/
+env/
+ENV/
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Ignore OS specific files
+.DS_Store
+Thumbs.db
